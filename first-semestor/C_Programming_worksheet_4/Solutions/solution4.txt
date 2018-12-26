@@ -1,0 +1,1 @@
+Output: ---->   Error ( "else" without a previous 'if' )
