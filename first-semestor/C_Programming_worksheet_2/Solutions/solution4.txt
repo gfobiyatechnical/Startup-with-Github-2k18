@@ -1,0 +1,1 @@
+Output: ---->   error: invalid operands to binary % (have ‘double’ and ‘int’)
